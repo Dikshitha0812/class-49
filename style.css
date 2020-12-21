@@ -1,0 +1,21 @@
+* {
+    border: solid;
+}
+
+h1 {
+    color: red;
+}
+
+.header {
+    background-color: brown;
+}
+
+.Games{
+    background-color: rgb(10, 202, 236);
+    display: flex; 
+    flex-wrap:wrap;
+    justify-content:space-evenly
+}
+p{
+    background-color: white;
+}
