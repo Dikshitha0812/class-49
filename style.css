@@ -1,5 +1,6 @@
 * {
     border: solid;
+
 }
 
 h1 {
@@ -14,8 +15,16 @@ h1 {
     background-color: rgb(10, 202, 236);
     display: flex; 
     flex-wrap:wrap;
-    justify-content:space-evenly
+    justify-content:space-evenly;
 }
+.game:hover{
+    transform: scale(1.5);
+}
+
+.header:hover{
+    background-color: aqua;
+}
+
 p{
     background-color: white;
 }
